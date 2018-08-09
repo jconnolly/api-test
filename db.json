@@ -1,0 +1,16 @@
+{
+    "transaction": {
+        "amount": "1100",
+        "correlation_id": "124.3382310435232",
+        "currency": "USD",
+        "fraud_score": {
+            "recommended_decision": "review",
+            "warnings": [
+                "Error encounter while performing Fraud Check"
+            ]
+        },
+        "transaction_status": "Processed",
+        "transaction_type": "score_only",
+        "validation_status": "success"
+    }
+}
